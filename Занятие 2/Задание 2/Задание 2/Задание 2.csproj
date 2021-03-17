@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Задание_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Учеба GeekBrains\Основы c#\Домашка\Занятие 2\Задание 5\Задание 5.sln" Link="Задание 5.sln" />
+  </ItemGroup>
+
+</Project>
